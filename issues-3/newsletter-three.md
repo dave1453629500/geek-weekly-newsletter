@@ -70,7 +70,7 @@
 <br>前端小伙伴速来围观
 - [【Android】Android性能优化典范（四）](http://geek.csdn.net/news/detail/50692)
 <br>Android性能优化提升全靠它
-- [【python】2015年出现的十大流行Python库](http://codingpy.com/article/top-10-python-libraries-started-in-2015/)
+- [【Python】2015年出现的十大流行Python库](http://codingpy.com/article/top-10-python-libraries-started-in-2015/)
 <br>fork时间到
 - [【交互设计】如何建立交互设计自查表](http://uedc.163.com/12870.html)
 <br>来自网易交互设计团队的经验之谈
