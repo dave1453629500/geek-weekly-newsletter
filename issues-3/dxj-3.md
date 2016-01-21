@@ -9,7 +9,7 @@
 - [【Android】推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>Android开发的童鞋有福啦
 - [【HTTP】全栈工程师眼中的HTTP](http://www.epubit.com.cn/article/378)
-<br>不同视角看HTTP
+<br>从不同的视角看HTTP
 - [【Web前端】Chorme 35个开发者工具的小技巧](http://www.w3cplus.com/tools/dev-tips.html)
 <br>前端小伙伴速来围观
 - [【Android】Android性能优化典范（四）](http://geek.csdn.net/news/detail/50692)
@@ -19,7 +19,7 @@
 - [【交互设计】如何建立交互设计自查表](http://uedc.163.com/12870.html)
 <br>来自网易交互设计团队的经验之谈
 - [【系统安全】Linux内核提权漏洞的分析和利用（CVE-2016-0728）](http://www.freebuf.com/vuls/93799.html)
-<br>共同关注系统安全
+<br>一起来关注系统安全
 - [【Node.js】Node.js背后的V8引擎优化技术](http://geek.csdn.net/news/detail/52208)
 <br>如何编写高性能Node.js代码
 - [【程序人生】30岁的程序员，你迷惘了吗?](http://www.cnblogs.com/tiangang/p/5144408.html)
