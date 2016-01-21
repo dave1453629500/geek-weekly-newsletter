@@ -29,7 +29,7 @@
 
 ## 干货集：IT 技术干货聚集地
 
-- [写自己的开源库，发布到 JitPack.io](https://github.com/icodeu/HelloLibrary) by [icodeu](https://github.com/icodeu)
+- [【Android】写自己的开源库，发布到 JitPack.io](https://github.com/icodeu/HelloLibrary) by [icodeu](https://github.com/icodeu)
 <br>这是你成为Android开源贡献者的第一步
 - [【经验】关于烂代码的那些事（上）](http://blog.2baxb.me/archives/1343)
 <br>他人之石 可以攻玉
@@ -55,9 +55,8 @@
 <br>值得收藏
 - [【工具】吐血推荐珍藏的Chrome插件](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402064553&idx=1&sn=4bc95ed03916f87cc8dfd17baed54f24)
 <br>快快使用起来
-- [理解Java NIO](http://yq.aliyun.com/articles/2371)
+- [【Java】理解Java NIO](http://yq.aliyun.com/articles/2371)
 <br>从I/O过度到NIO，讲解深刻，突出NIO特点
-
 
 ## 大集市：挖掘程序界的宝藏 
 
