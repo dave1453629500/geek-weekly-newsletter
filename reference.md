@@ -20,7 +20,15 @@
 - [Java123](http://www.java123.net/)
 - [前端乱炖](http://www.html-js.com/)
 - [优设](http://www.uisdc.com/)
+- [好奇心日报](http://www.qdaily.com/)
 - [Producthunt](https://www.producthunt.com/)
+- [freecodecamp](http://www.freecodecamp.com/)
+- [码农网](http://www.codeceo.com/)
+- [PHPXS](http://www.phpxs.com/)
+- [2015 年度新增开源软件排名 TOP 100](http://www.oschina.net/news/69808/2015-annual-ranking-top-100-new-open-source-software)
+- [代码君](http://daimajun.com/)
+- [lifehacker](http://lifehacker.com/tag/productivity)
+- [IT牛人博客聚合](http://www.udpwork.com/)
 
 ### 工具
 
@@ -39,6 +47,8 @@
 - [I code it](http://icodeit.org/)
 - [腊八粥-技术文章翻译网站](http://www.labazhou.net/)
 - [计算机相关技术资料整理](https://github.com/LippiOuYang/practical-programming-books)
+- [Hollis](http://www.hollischuang.com/)
+- [刘哇勇的部落格](http://www.cnblogs.com/Wayou/)
 
 ### 各技术周刊
 
