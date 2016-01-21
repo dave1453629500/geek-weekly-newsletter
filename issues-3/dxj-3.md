@@ -4,7 +4,7 @@
 
 ## 大集市：挖掘程序界的宝藏 
  
-- [【开源软件】2015 年度新增开源软件排名 TOP 100](http://m.oschina.net/news/69597/how-to-plan-30000-salary) BY [wenquan0hf](https://github.com/wenquan0hf)
+- [【开源软件】2015 年度新增开源软件排名 TOP 100](http://www.oschina.net/news/69808/2015-annual-ranking-top-100-new-open-source-software) BY [wenquan0hf](https://github.com/wenquan0hf)
 <br>对互联网从业人员有很大帮助，非常全面
 - [【Android】推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>Android开发的童鞋有福啦
