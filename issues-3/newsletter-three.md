@@ -4,105 +4,119 @@
 
 ## 新鲜事：互联网&IT技术一周大事件汇总
 
-- [开源盛世的起点——2015十大新兴热门开源项目盘点](http://www.oschina.net/news/69238/2015-top-ten-emerging-open-source-projects) 
-<br>大家都在关注的项目，没准这里就是你要创业的起点
-- [Google确认下一个Android版本将不会使用Oracle的Java API，转而使用开源的OpenJDK替代](http://www.infoq.com/cn/news/2016/01/Google-Oracle-OpenJDK?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
-<br>Android工程师需要关注
-- [Spark 1.6发布：引入Dataset接口](http://www.infoq.com/cn/news/2016/01/spark-16-release)
-<br>1000人的智慧是什么样的？
-- [TIOBE 1月编程语言排行榜 Java是2015年度编程语言](http://www.oschina.net/news/69606/tiobe-2016-1)
-<br>Java已经登顶，且看2016年新秀在哪？
-- [2016年，互联网被哪九大未来技术刷屏？](http://zxr.baijia.baidu.com/article/285389)
-<br>未来也是方向，值得关注
-- [微软将停止对 IE 8、9和10的支持](http://www.infoq.com/cn/news/2016/01/end-support-ie-8-9-10)
-<br>微软变革，大力推进 IE 11 和 Edge
-- [2016开年十大猜：和游戏人共话“行业大势” ](http://zhuanlan.zhihu.com/chuapp/20476916)
-<br>新游戏模式的探索
-- [15 位健在的牛叉程序员，你知道哪几位？](http://blog.jobbole.com/97009/)
-<br>这里有程序媛
-- [美团推荐算法实践](http://tech.meituan.com/mt-recommend-practice.html)
-<br>O2O行业最有价值的算法之一
-- [SQLite 3.10 发布，性能优化](http://www.oschina.net/news/24951/sqlite-3-7-10-released)
-<br>改动很多
-- [Facebook Messenger月活跃用户数超 8 亿](http://36kr.com/p/5042035.html)
-<br>Messenger 的独立是正确的
+- [当微博取消 140 字限制，你还会从微信上回来么](http://36kr.com/p/5042531.html) 
+<br>微博取消了140字限制，你还会选择么？
+- [当我们讨论微信应用号时，可别忘了张小龙的产品逻辑](http://36kr.com/p/5042544.html?ref=head_line_one) 
+<br>微信应用号来了，你了解了么
+- [看看这些逼格高的互联网公司总部大楼](http://www.devstore.cn/new/newInfo/16996.html) 
+<br>漂亮的互联网总部大楼
+- [这12行代码是如何让浏览器爆炸的？](http://www.devstore.cn/new/newInfo/17006.html) 
+<br>技术改变生活
+- [2016 最佳 Linux 发行版排行榜](http://www.oschina.net/news/69964/the-best-linux-distros-of-2016) - 
+<br>最佳Linux发行版排行榜
+- [透过微信应用号，看HTML5与Native进入融合时代](http://www.oschina.net/news/70011/html5-and-native) 
+<br>微信应用号对HTML5与Native的影响
+- [百度开源其人工智能系统：Warp-CTC开源](http://www.infoq.com/cn/news/2016/01/Baidu-Open-Source-Warp-CTC) 
+<br>百度开源了人工智能系统
+- [在西方的程序员眼里，东方的程序员是什么样的？](http://www.techug.com/how-do-programmers-in-the-west-see-programmers?) 
+<br>我们在西方同行眼中是什么样的
+- [故宫的白蚁居然也是创业机会](http://tech.163.com/16/0121/08/BDRD4L0300094OE0.html#index_club) 
+<br>用技术改变生活，没准你会找到创业的起点
+- [Json.NET 8引入ArrayPools提升性能](http://www.infoq.com/cn/news/2016/01/json-net8) 
+<br>Json.NET 8引入ArrayPools提升性能
+- [攻下隔壁女生路由器后，我都做了些什么](http://daily.zhihu.com/story/3603866)
+<br>可以一试，但首先隔壁得有女生
 
 ## 干货集：IT 技术干货聚集地
 
-- [【运维】Redis开发运维实践指南](http://wiki.jikexueyuan.com/project/all-about-redis/)
-<br>银行数据库运维实战
-- [【开发】自定义 View 实现简单的时钟讲解](http://qun.jikexueyuan.com/android/topic/241)
-<br>Android 时钟具体实现
-- [【开发】星球大战：原力觉醒或者用原力粉碎Android的视图](https://github.com/bboyfeiyu/android-tech-frontier/blob/master/issue-31/星球大战：原力觉醒或者用原力粉碎Android的视图.md)
-<br>史诗般的星战动画
-- [【工具】GitHub搭建动态网站](http://qun.jikexueyuan.com/web/topic/290)
-<br>GitHub 应用
-- [【人工智能】TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
-<br>Google 第二代机器学习系统
-- [【资源】实用的计算机相关技术书籍汇总](https://github.com/LippiOuYang/practical-programming-books)
-<br>很全面
-- [【数据挖掘】自然语言处理在现实生活中运用](http://www.cnblogs.com/baiboy/p/zryy1.html)
-<br>站在技术角度教你背单词
-- [【架构】快的打车架构实践](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=402041851&idx=1&sn=10e83c9dc614ae36bba63da9d5614b86&scene=0#wechat_redirect)
-<br>做自己的打车应用
-- [【开发】一步步教你用 PHP + MySQL 搭建网站](http://wiki.jikexueyuan.com/project/php-and-mysql-web/)
-<br>实战解析
-- [【产品】不要迷恋产品方法论，脚踏实地执行这8个步骤就好](http://www.woshipm.com/pd/262724.html)
-<br>产品也要务实
-- [【开发《Spring Boot Cookbook》阅读笔记](http://wiki.jikexueyuan.com/project/spring-boot/)
-<br>学习心得总结，很有指导意义
-- [【开发】Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)
-<br>国内第一版 Chrome 调试工具教程
-- [【云计算】Docker —— 从入门到实践](http://wiki.jikexueyuan.com/project/docker-technology-and-combat/)
-<br>结合示例让 Docker 变得更好理解
-- [【笔试面试】Java 面试宝典](http://wiki.jikexueyuan.com/project/java-interview-bible/)
-<br>Java工程师都要读的面试题库
-- [【数学模型】商人们怎样过河？](http://blog.luoyuanhang.com/2016/01/06/【数学模型】商人们怎样过河？/)
-<br>发散思维，复杂问题简单化
+- [写自己的开源库，发布到 JitPack.io](https://github.com/icodeu/HelloLibrary) by [icodeu](https://github.com/icodeu)
+<br>这是你成为Android开源贡献者的第一步
+- [【经验】关于烂代码的那些事（上）](http://blog.2baxb.me/archives/1343)
+<br>他人之石 可以攻玉
+- [【经验】关于烂代码的那些事（中）](http://blog.2baxb.me/archives/1378)
+<br>他人之石 可以攻玉
+- [【经验】关于烂代码的那些事（下）](http://blog.2baxb.me/archives/1499)
+<br>他人之石 可以攻玉
+- [【前端】2016九大前端必备动画库](http://www.tuicool.com/articles/f2IJfij)
+<br>九大必备动画库
+- [【PHP】15个实用的 PHP 正则表达式](http://webres.wang/15-useful-php-reg-expression/)
+<br> 15个实用的 PHP 正则表达式
+- [【CSS3】 CSS3实现18种Loading效果](http://webres.wang/18-css3-loading-effect/)
+<br>CSS3实现18种Loading效果
+- [【产品】竞品分析报告正确的打开方式](http://www.chanpin100.com/archives/37420)
+<br>竞品分析报告正确的打开方式
+- [【产品】产品经理小技巧丨详解产品原型]( http://www.chanpin100.com/archives/37326)
+<br>详解产品原型
+- [【前端】Sublime Text 3常用快捷键](http://www.css88.com/)
+<br>Sublime Text 3常用快捷键
+- [【iOS】IOS开发支付宝集成](http://www.jianshu.com/p/2b9bbfcb7ec4?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+<br>开发过程中很实用
+- [【Android】Android屏幕适配全攻略(最权威的官方适配指导)](http://blog.csdn.net/jdsjlzx/article/details/45891551)
+<br>值得收藏
+- [【工具】吐血推荐珍藏的Chrome插件](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402064553&idx=1&sn=4bc95ed03916f87cc8dfd17baed54f24)
+<br>快快使用起来
+- [理解Java NIO](http://yq.aliyun.com/articles/2371)
+<br>从I/O过度到NIO，讲解深刻，突出NIO特点
+
 
 ## 大集市：挖掘程序界的宝藏 
- 
-- [【职业规划】程序员如何谋划出月薪 3 万](http://m.oschina.net/news/69597/how-to-plan-30000-salary)
-<br>从商业价值、生涯修炼、职业机会多角度展开分析
-- [【人工智能】和一群机器人聊天](http://www.5u55.cn/20151231-chat-with-robots.html)
-<br>图灵机器人
-- [【程序人生】重新定义工作](http://www.labazhou.net/2016/01/redefining-work/)
-<br>成长之中不可缺少的反思
-- [【发现】极致WebGL互动体验网站](https://cybermap.kaspersky.com/)
-<br>酷炫效果
-- [【程序人生】运营总监或运营经理是怎么成长起来的？](https://www.zhihu.com/question/19810744)
-<br>张亮话运营
-- [【程序人生】程序员的日常：一位码农的一生](http://codingpy.com/article/programmers-daily-a-coders-whole-life/)
-<br>有意思的简短漫画
+
+- [【开源软件】2015 年度新增开源软件排名 TOP 100](http://www.oschina.net/news/69808/2015-annual-ranking-top-100-new-open-source-software) BY [wenquan0hf](https://github.com/wenquan0hf)
+<br>对互联网从业人员有很大帮助，非常全面
+- [【Android】推荐几款实用的Android Studio 插件](http://www.jianshu.com/p/6f5f818afe4b?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+<br>Android开发的童鞋有福啦
+- [【HTTP】全栈工程师眼中的HTTP](http://www.epubit.com.cn/article/378)
+<br>从不同的视角看HTTP
+- [【Web前端】Chorme 35个开发者工具的小技巧](http://www.w3cplus.com/tools/dev-tips.html)
+<br>前端小伙伴速来围观
+- [【Android】Android性能优化典范（四）](http://geek.csdn.net/news/detail/50692)
+<br>Android性能优化提升全靠它
+- [【python】2015年出现的十大流行Python库](http://codingpy.com/article/top-10-python-libraries-started-in-2015/)
+<br>fork时间到
+- [【交互设计】如何建立交互设计自查表](http://uedc.163.com/12870.html)
+<br>来自网易交互设计团队的经验之谈
+- [【系统安全】Linux内核提权漏洞的分析和利用（CVE-2016-0728）](http://www.freebuf.com/vuls/93799.html)
+<br>一起来关注系统安全
+- [【Node.js】Node.js背后的V8引擎优化技术](http://geek.csdn.net/news/detail/52208)
+<br>如何编写高性能Node.js代码
+- [【程序人生】30岁的程序员，你迷惘了吗?](http://www.cnblogs.com/tiangang/p/5144408.html)
+<br>深夜里的一盏灯，我们来谈一谈过去现在和未来
+- [【趣话安全】物理黑：关于HID的一些攻击姿势解析](http://www.freebuf.com/articles/system/92519.html)
+<br>论如何优雅地从老师的电脑中获取考试答案。。。
 
 ## 爱分享：分享原创与翻译
 
-- [【翻译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
-<br>学习RxJava的核心
-- [【视频】Axure入门到精通系列课程 （1.5-12限免）](http://ke.jikexueyuan.com/xilie/278)
-<br>猫眼电影APP的原型设计
-- [【ISUX译】iOS 9人机界面指南(三)：iOS 技术 (下)](http://isux.tencent.com/ios9-guideline-ch3-2.html)
-<br>腾讯ISUX团队实力翻译
-- [【创业】YC创业课学习笔记 BY 李笑来](http://zhibimo.com/read/xiaolai/growth/index.html)
-<br>学习如何创业
-- [【设计】如何做一个好的logo](http://www.zcool.com.cn/article/ZMzgzMTcy.html)
-<br>设计是有迹可寻的
+- [【Java】为Java说句公道话](http://www.yinwang.org/blog-cn/2016/01/18/java/) BY [wenquan0hf](https://github.com/wenquan0hf)
+<br>Java的“继承人”没能超越它
+- [【架构】各大互联网公司架构演进之路汇总](http://www.hollischuang.com/archives/1036?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+<br>大公司的架构演进之路
+- [【翻译】彻底厘清真实世界中的分布式系统](http://dockone.io/article/967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+<br>一篇文章带你了解分布式系统
+- [【翻译】iOS 架构模式--解密 MVC，MVP，MVVM以及VIPER架构](http://www.cocoachina.com/ios/20160108/14916.html)
+<br>iOS下关于架构模式的知识解读
+- [【php爬虫】百万级别知乎用户数据爬取与分析](http://www.aintnot.com/2015/09/30/php-spider-millons-of-zhihu-user-analyze/)
+<br>php爬虫实战
+- [【Spring Boot】RESTful by Spring Boot with MySQL](http://www.jianshu.com/p/2537313ce5f1)
+<br>Spring Boot 学习笔记（1.3）
+- [【数据库】Hibernate-HQL、Criteria、SQL实现查询对照以及增删改](http://blog.csdn.net/wangyang1354/article/details/50448484)
+<br>详解不同的查询方式
 
 ## 自留地：极客学院相关更新课程
 
-- [【Wiki】PHP大神成长手册](http://www.jikexueyuan.com/blog/535.html)
-<br>极客推出，PHP进阶首选
-- [【Wiki】OpenResty最佳实践](http://wiki.jikexueyuan.com/project/openresty/)
-<br>使用 Lua 及 Nginx 构建高性能的 Web 应用
-- [【视频】Android UI自动化测试 UiAutomator](http://ke.jikexueyuan.com/xilie/10)
-<br>零基础学习Android 自动化测试
-- [【视频】iOS 支付功能概述](http://www.jikexueyuan.com/course/2419.html)
-<br>线上支付基础知识
-- [【视频】Android 项目开发实战：图案解锁](http://www.jikexueyuan.com/course/1592.html)
-<br>图案解锁原理与具体实现
-- [【资源】HTML5跳动的心](http://download.jikexueyuan.com/detail/id/2970.html)
-<br>技术也可以很美
-
+- [【视频】微信 web 开发者工具详解](http://www.jikexueyuan.com/course/2463.html)
+<br>微信开发基础篇
+- [【限免】Java 设计模式 (24个课程，近16个小时，超高含金量！)](http://ke.jikexueyuan.com/xilie/6?huodong=shequn_0118)
+<br>23种设计模式视频版
+- [【限免】Android主流开源库深度剖析](http://ke.jikexueyuan.com/xilie/108?huodong=shequn_0119)
+<br>主流的Android开源库的使用方法
+- [【Wiki】AngularJS v1.5 简明教程中文版](http://wiki.jikexueyuan.com/project/angularjs/)
+<br>最新 AngularJS 中文版教程
+- [【Wiki】Android Weekly 中文版 Issue #188](http://wiki.jikexueyuan.com/project/android-weekly/issue-188/index.html)
+<br>每周 Android 见闻
+- [【Wiki】IntelliJ IDEA 使用教程](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
+<br>开发者利器指南
+- [【下载】Android日历行程-源码](http://download.jikexueyuan.com/detail/id/974.html)
+<br>可以显示当前日期，农历，支持手势滑动切换日期
 
 ## 写在后面
 

@@ -29,6 +29,7 @@
 - [代码君](http://daimajun.com/)
 - [lifehacker](http://lifehacker.com/tag/productivity)
 - [IT牛人博客聚合](http://www.udpwork.com/)
+- [Web资源网](http://webres.wang/)
 
 ### 工具
 
@@ -49,12 +50,15 @@
 - [计算机相关技术资料整理](https://github.com/LippiOuYang/practical-programming-books)
 - [Hollis](http://www.hollischuang.com/)
 - [刘哇勇的部落格](http://www.cnblogs.com/Wayou/)
+- [Axb的自我修养](http://blog.2baxb.me/)
+- [伊成Blog](http://www.lvoyee.com/)
 
 ### 各技术周刊
 
 - [ios 技术周报](http://weekly.ios-wiki.com/)
 - [奇舞周刊](http://www.75team.com/weekly/)
 - [PM周刊](http://wiki.jikexueyuan.com/project/pmweekly/)
+- [蠎周刊](http://weekly.pychina.org/)
 
 ### 头条类
 
@@ -68,3 +72,4 @@
 - [Fox ebook](http://www.foxebook.net/)
 - [IT ebook](http://it-ebooks.info/)
 - [freebookspot](http://www.freebookspot.es/)
+- [直播编程](https://www.livecoding.tv)
