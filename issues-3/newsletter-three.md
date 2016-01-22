@@ -119,7 +119,7 @@
 
 ## 写在后面
 
-第一期，还在β，如果内容不符合你的胃口，请一定告诉我们，把你的意见和建议写在这里： [https://shimo.im/doc/4y7OQbyEwX4NhrPs](https://shimo.im/doc/4y7OQbyEwX4NhrPs)   
+如果内容不符合你的胃口，请一定告诉我们，把你的意见和建议写在这里： [https://shimo.im/doc/4y7OQbyEwX4NhrPs](https://shimo.im/doc/4y7OQbyEwX4NhrPs)   
 我们会认真对待每一条用心的反馈并持续改进～
 
 如果愿意参与周刊的编辑，请加QQ群: 432169252   
