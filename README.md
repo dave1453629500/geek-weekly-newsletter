@@ -62,8 +62,9 @@ Labels 分类简介：
 
 |名称|发布时间|
 |------|-----------|
-|[极客周刊 第一期](issues-1/newsletter-one.md) |2015年1月3日~8日|
-|[极客周刊 第二期](issues-2/newsletter-two.md) |2015年1月10日~15日|
+|[极客周刊 第一期](issues-1/newsletter-one.md) |2016年1月3日~8日|
+|[极客周刊 第二期](issues-2/newsletter-two.md) |2016年1月10日~15日|
+|[极客周刊 第三期](issues-3/newsletter-three.md)|2016年1月17～22日|
 |持续更新ing......||
 
 ## 主编及贡献者
