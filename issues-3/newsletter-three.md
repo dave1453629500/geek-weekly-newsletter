@@ -45,7 +45,7 @@
 <br>CSS3实现18种Loading效果
 - [【产品】竞品分析报告正确的打开方式](http://www.chanpin100.com/archives/37420)
 <br>竞品分析报告正确的打开方式
-- [【产品】产品经理小技巧丨详解产品原型]( http://www.chanpin100.com/archives/37326)
+- [【产品】产品经理小技巧丨详解产品原型](http://www.chanpin100.com/archives/37326)
 <br>详解产品原型
 - [【前端】Sublime Text 3常用快捷键](http://www.css88.com/)
 <br>Sublime Text 3常用快捷键
