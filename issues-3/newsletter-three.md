@@ -12,7 +12,7 @@
 <br>漂亮的互联网总部大楼
 - [这12行代码是如何让浏览器爆炸的？](http://www.devstore.cn/new/newInfo/17006.html) 
 <br>技术改变生活
-- [2016 最佳 Linux 发行版排行榜](http://www.oschina.net/news/69964/the-best-linux-distros-of-2016) - 
+- [2016 最佳 Linux 发行版排行榜](http://www.oschina.net/news/69964/the-best-linux-distros-of-2016) 
 <br>最佳Linux发行版排行榜
 - [透过微信应用号，看HTML5与Native进入融合时代](http://www.oschina.net/news/70011/html5-and-native) 
 <br>微信应用号对HTML5与Native的影响
