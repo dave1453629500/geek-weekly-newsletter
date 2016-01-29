@@ -52,6 +52,7 @@
 - [刘哇勇的部落格](http://www.cnblogs.com/Wayou/)
 - [Axb的自我修养](http://blog.2baxb.me/)
 - [伊成Blog](http://www.lvoyee.com/)
+- [AlloyTeam](http://www.alloyteam.com/)
 
 ### 各技术周刊
 
