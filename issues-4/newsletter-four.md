@@ -39,7 +39,7 @@
 
 ## 干货集：IT 技术干货聚集地
 
-- [【工具】Photoshop快捷键]( http://www.w3cfuns.com/notes/18165/61eca150fcf4ab2590c01dd3d6514c1d)
+- [【工具】Photoshop快捷键](http://www.w3cfuns.com/notes/18165/61eca150fcf4ab2590c01dd3d6514c1d)
 <br>photoshop快捷键
 - [【工具】Win10 的快捷键](http://www.w3cfuns.com/notes/18165/7f9125f263ab0557a262bef8d62c2579)
 <br>Win10 的快捷键
