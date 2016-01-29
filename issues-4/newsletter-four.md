@@ -117,8 +117,6 @@
 <br>很全的可视化工具汇总
 - [【源码】微信互动-年会抽奖系统](https://github.com/deyongz/lottery-new-year)
 <br>由H5实现
-- [【翻译】生还是死？Android 进程优先级详解](http://chinagdg.org/2016/01/生还是死？android-进程优先级详解/)
-<br>Android 只杀死进程，而不是组件
 - [【问答】移动直播的业务前景怎么样？来疯如何漂亮的切入移动直播？](http://www.pmcaff.com/entry?id=1000000000151879)
 <br>移动直播商业模式是否人人可切
 - [【个人博客】详解this](http://www.cnblogs.com/Wayou/p/all-this.html)
