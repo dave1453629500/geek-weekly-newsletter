@@ -21,7 +21,7 @@
 
 ## 新鲜事：互联网&IT技术一周大事件汇总
 
-- [开源盛世的起点——2015十大新兴热门开源项目盘点](http://www.oschina.net/news/69238/2015-top-ten-emerging-open-source-projects) 
+- [开源盛世的起点——2015十大新兴热门开源项目盘点](http://www.oschina.net/news/69238/2015-top-ten-emerging-open-source-projects)
 <br>大家都在关注的项目，没准这里就是你要创业的起点
 - [Google确认下一个Android版本将不会使用Oracle的Java API，转而使用开源的OpenJDK替代](http://www.infoq.com/cn/news/2016/01/Google-Oracle-OpenJDK?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
 <br>Android工程师需要关注
@@ -77,8 +77,8 @@
 - [【数学模型】商人们怎样过河？](http://blog.luoyuanhang.com/2016/01/06/【数学模型】商人们怎样过河？/)
 <br>发散思维，复杂问题简单化
 
-## 大集市：挖掘程序界的宝藏 
- 
+## 大集市：挖掘程序界的宝藏
+
 - [【职业规划】程序员如何谋划出月薪 3 万](http://m.oschina.net/news/69597/how-to-plan-30000-salary)
 <br>从商业价值、生涯修炼、职业机会多角度展开分析
 - [【人工智能】和一群机器人聊天](http://www.5u55.cn/20151231-chat-with-robots.html)
