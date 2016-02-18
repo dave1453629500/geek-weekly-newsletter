@@ -9,7 +9,7 @@
 - [申请仲裁成功，腾讯重获“weixin.com”所有权](http://www.oschina.net/news/70743/tencent-get-weixin-com)
 <br>“weixin.com”将由此前注册人转移给腾讯
 - [Linux底层函数库“glibc”再现重大安全漏洞](http://netsecurity.51cto.com/art/201602/505802.htm 	)
-<br>Linux底层函数库“glibc”现重大安全漏洞
+<br>C运行库现重大安全漏洞
 - [引力波数据居然是用 Python 分析的 ](http://www.oschina.net/news/70669/gwpy-ligo-analyze-gravitational-waves-data)
 <br>python和科学研究本来就很亲近
 - [火狐浏览器新 UI 曝光：界面大改](http://www.oschina.net/news/70767/firefox-new-ui)
@@ -17,7 +17,7 @@
 - [升级TCP协议使网速提升30%，中国受益明显](http://www.oschina.net/news/70217/upgrade-tcp-protocol)
 <br>技术改变生活
 - [谷歌启动容错Git管理系统项目：Git Ketch](http://www.infoq.com/cn/news/2016/02/google-kick-starts-git-ketch)
-<br>谷歌启动容错Git管理系统项目：Git Ketch
+<br>多主机Git管理系统
 - [聚美优品宣布私有化，这次终于轮到为自己代言的陈欧](http://36kr.com/p/5043399.html?ref=head_line_two)
 <br>聚美优品宣布将进行私有化
 - [中国版 Kindle Unlimited 悄然上线，每月12 元，4 万多本电子书任你读](http://36kr.com/p/5043428.html)
