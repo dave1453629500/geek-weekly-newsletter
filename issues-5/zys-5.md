@@ -14,7 +14,7 @@
 - [引力波数据居然是用 Python 分析的 ](http://www.oschina.net/news/70669/gwpy-ligo-analyze-gravitational-waves-data) 
 <br>python和科学研究本来就很亲近
 - [火狐浏览器新 UI 曝光：界面大改](http://www.oschina.net/news/70767/firefox-new-ui) 
-<br>火狐浏览器新，UI界面大改
+<br>火狐浏览器新UI界面大改
 - [升级TCP协议使网速提升30%，中国受益明显](http://www.oschina.net/news/70217/upgrade-tcp-protocol) 
 <br>技术改变生活
 - [谷歌启动容错Git管理系统项目：Git Ketch](http://www.infoq.com/cn/news/2016/02/google-kick-starts-git-ketch) 
