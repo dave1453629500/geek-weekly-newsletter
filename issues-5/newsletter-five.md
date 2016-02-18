@@ -4,7 +4,7 @@
 
 ## 新鲜事：互联网&IT技术一周大事件汇总
 
-- [Apple Pay2月18日入华 中国移动支付丛林群狼开战](http://www.devstore.cn/new/newInfo/17241.html)
+- [Apple Pay 2月18日入华 中国移动支付丛林群狼开战](http://www.devstore.cn/new/newInfo/17241.html)
 <br>支付行业“硝烟四起”
 - [申请仲裁成功，腾讯重获“weixin.com”所有权](http://www.oschina.net/news/70743/tencent-get-weixin-com)
 <br>“weixin.com”将由此前注册人转移给腾讯
