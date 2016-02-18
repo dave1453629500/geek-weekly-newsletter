@@ -30,6 +30,8 @@
 - [lifehacker](http://lifehacker.com/tag/productivity)
 - [IT牛人博客聚合](http://www.udpwork.com/)
 - [Web资源网](http://webres.wang/)
+- [设计师网址导航](http://www.nav80.com/)
+- [Rss-IT人](https://github.com/Gracker/Rss-IT)
 
 ### 工具
 
@@ -53,6 +55,9 @@
 - [Axb的自我修养](http://blog.2baxb.me/)
 - [伊成Blog](http://www.lvoyee.com/)
 - [AlloyTeam](http://www.alloyteam.com/)
+- [学而学而时嘻之](http://www.geekonomics10000.com/)
+- [Android开发大牛博客](http://geek.csdn.net/news/detail/56179)
+- [CYBERMKD](http://www.cybermkd.com/)
 
 ### 各技术周刊
 
