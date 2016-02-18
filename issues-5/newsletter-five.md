@@ -8,7 +8,7 @@
 <br>支付行业“硝烟四起”
 - [申请仲裁成功，腾讯重获“weixin.com”所有权](http://www.oschina.net/news/70743/tencent-get-weixin-com)
 <br>“weixin.com”将由此前注册人转移给腾讯
-- [Linux底层函数库“glibc”再现重大安全漏洞](http://netsecurity.51cto.com/art/201602/505802.htm 	)
+- [Linux底层函数库“glibc”再现重大安全漏洞](http://netsecurity.51cto.com/art/201602/505802.htm)
 <br>C运行库现重大安全漏洞
 - [引力波数据居然是用 Python 分析的 ](http://www.oschina.net/news/70669/gwpy-ligo-analyze-gravitational-waves-data)
 <br>python和科学研究本来就很亲近
