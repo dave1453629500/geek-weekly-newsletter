@@ -67,6 +67,7 @@ Labels 分类简介：
 |[极客周刊 第三期](issues-3/newsletter-three.md)|2016年1月17～22日|
 |[极客周刊 第四期](issues-4/newsletter-four.md)|2016年1月24～29日|
 |[极客周刊 第五期](issues-5/newsletter-five.md)|2016年2月14～19日|
+|[极客周刊 第六期](issues-6/newsletter-six.md)|2016年2月21～26日|
 |持续更新ing......||
 
 ## 主编及贡献者
