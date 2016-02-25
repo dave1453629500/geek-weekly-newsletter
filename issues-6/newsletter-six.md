@@ -43,7 +43,7 @@
 <br>请看完，看到作者最后的话
 - [【设计】聊聊新人设计师最容易遇到的12个问题](http://www.chanpin100.com/archives/40694)
 <br>不断进步才是王道
-- [【设计】十步交互设计方法](http://www.woshipm.com/ucd/279885.html	)
+- [【设计】十步交互设计方法](http://www.woshipm.com/ucd/279885.html)
 <br>十步交互设计方法
 - [【Java】[译]Java中整型的缓存机制](http://www.hollischuang.com/archives/1174)
 <br>Java中Integer的缓存相关知识
