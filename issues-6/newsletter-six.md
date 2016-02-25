@@ -13,7 +13,7 @@
 - [研究人员开发出最节能的Wi-Fi技术 ](http://top.jobbole.com/33572/) 
 <br>技术改变生活
 - [链家的 “金融危机”](http://36kr.com/p/5043752.html) 
-<br>链家的 “金融危机”
+<br>管理混乱的后果
 - [争夺下一个新闻入口？Google 的 “Instant Articles” 于今日正式上线](http://36kr.com/p/5043757.html) 
 <br>目前这项计划已经在 Github 上开源，提交了代码 1200 次，超过 5800 位开发者访问。
 - [Google引入云函数（Cloud Functions）服务](http://www.infoq.com/cn/news/2016/02/google-cloud-functions) 
