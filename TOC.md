@@ -5,4 +5,5 @@
 - [极客周刊第3期](issues-3/newsletter-three.md)
 - [极客周刊第4期](issues-4/newsletter-four.md)
 - [极客周刊第5期](issues-5/newsletter-five.md)
+- [极客周刊第6期](issues-6/newsletter-six.md)
 - [来源站点汇总](reference.md)
