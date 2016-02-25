@@ -29,7 +29,7 @@
 
 - [【算法】网易云音乐的歌单推荐算法是怎样的？ ](https://www.zhihu.com/question/26743347/answer/34235147?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>网易云音乐给我推荐的歌单好多次惊艳到我
-- [【工具】超全！整理常用的iOS第三方资源]( http://www.cocoachina.com/ios/20160121/14988.html)
+- [【工具】超全！整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html)
 <br>iOS第三方资源
 - [【工具】为设计师准备的 10 个最棒的 Chrome 扩展插件](http://webres.wang/10-best-chrome-extensions-for-designers/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>这些插件你用了么？
