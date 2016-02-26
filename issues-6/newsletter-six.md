@@ -31,12 +31,10 @@
 <br>网易云音乐给我推荐的歌单好多次惊艳到我
 - [【工具】超全！整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html)
 <br>iOS第三方资源
-- [【工具】为设计师准备的 10 个最棒的 Chrome 扩展插件](http://webres.wang/10-best-chrome-extensions-for-designers/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [【工具】为设计师准备的 10 个最棒的 Chrome 扩展插件](http://webres.wang/10-best-chrome-extensions-for-designers/)
 <br>这些插件你用了么？
 - [【前端】Gulp新手入门教程](http://top.css88.com/archives/742)
 <br>Gulp 是一个自动化工具，前端开发者可以使用它来处理常见任务
-- [【前端】js设计模式系列之(一)请节约你的请求-代理模式](http://mtydev.net/2016/02/23/%E8%AF%B7%E8%8A%82%E7%BA%A6%E4%BD%A0%E7%9A%84%E8%AF%B7%E6%B1%82-%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/#rd?sukey=014c68f407f2d3e1dcdb4b9b4f6312c1bd3025a58edb3123672d0ffd4d8a534c61d1e8ec874a6a80cc922caea73644b1)
-<br>请节约你的请求-代理模式 
 - [【产品】为什么PM更要注重需求挖掘而非交互设计？](http://www.chanpin100.com/archives/40575)
 <br>我们不仅要拥有产品设计能力，更要拥有产品需求挖掘能力。
 - [【产品】产品经理宝典](https://blog.eood.cn/pm_bible?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -51,7 +49,7 @@
 <br>关于Swift的思考总结
 - [【Android】Android 学习资料收集](https://github.com/zhangyushu/Android_Data)
 <br>收集的资料挺好的，情不自禁的收藏了
-- [【架构】对话架构师：亿级短视频社交「美拍」架构实战](https://segmentfault.com/a/1190000004330778?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [【架构】对话架构师：亿级短视频社交「美拍」架构实战](https://segmentfault.com/a/1190000004330778)
 <br>短视频社交“美拍”架构实践
 
 ## 大集市：挖掘程序界的宝藏
@@ -95,7 +93,7 @@
 <br>Python实现的整站爬虫
 - [【算法】计算文本相似度](http://www.cybermkd.com/babyye-tan-da-shu-ju-ji-yu-nei-rong-de-tui-jian/)
 <br>文本相似度算法解析
-- [【架构】互联网项目架构经验分享](http://www.sunhaojie.com/2015/12/17/%E4%BA%92%E8%81%94%E7%BD%91%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/)
+- [【架构】互联网项目架构经验分享](http://www.sunhaojie.com/2015/12/17/互联网项目架构经验分享/)
 <br>项目架构的经验之谈
 
 ## 自留地：极客学院相关更新课程
