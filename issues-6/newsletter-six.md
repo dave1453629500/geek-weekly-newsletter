@@ -120,7 +120,7 @@
 
 投稿请点击： [http://form.mikecrm.com/f.php?t=iB0rVf](http://form.mikecrm.com/f.php?t=iB0rVf) 我们会为审核通过的稿件提供署名发表，感谢参与：）   
 
-如果你觉得这份周刊不错，也请发扬互联网的分享精神，发给更多的小伙伴们－－[订阅地址](http://list.qq.com/cgi-bin/qf_invite?id=83392b8505dd16951d180f02fe45e724a4f0c455983ca581)
+如果你觉得这份周刊不错，也请发扬互联网的分享精神，发给更多的小伙伴们－－[订阅地址](https://tinyletter.com/jkxyweekly)
 
 如果愿意参与周刊的编辑，请加QQ群: 432169252   
 

@@ -15,7 +15,7 @@
 
 输入你常用的邮箱订阅（注意：订阅后需要去邮箱里点击确认），成功后会收到一封有`福利`的欢迎信，等你来~
 
-订阅地址：<http://list.qq.com/cgi-bin/qf_invite?id=83392b8505dd16951d180f02fe45e724a4f0c455983ca581>
+订阅地址：<https://tinyletter.com/jkxyweekly>
 
 >周刊QQ群：241417150
 >
