@@ -79,3 +79,5 @@
 - [IT ebook](http://it-ebooks.info/)
 - [freebookspot](http://www.freebookspot.es/)
 - [直播编程](https://www.livecoding.tv)
+- [medium](https://medium.com)
+- [IT 外文](http://www.vaikan.com/)
