@@ -13,7 +13,7 @@
 - [Codecloud](http://codecloud.net/)
 - [zcool](http://www.zcool.com.cn/)
 - [WEB前端开发](http://www.css88.com/)
-- [Infoq](http://www.open-open.com/github/)
+- [Infoq](http://www.infoq.com/cn/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Demo8](http://www.demo8.com/)
 - [IT183w文库](http://wenku.it168.com/)
