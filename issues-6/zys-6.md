@@ -7,7 +7,7 @@
 
 - [MWC 2016：三星、HTC等大秀VR 你更看好谁？](http://www.devstore.cn/new/newInfo/17324.html) 
 <br>VR元年真的来了？
-- [小米pay呼之欲出 手游厂商密集入局移动支付](http://www.devstore.cn/new/newInfo/17303.html) 
+- [VR进化论：看的见的软硬件内容井喷](http://www.devstore.cn/new/newInfo/17303.html) 
 <br>传言已久的小米Pay呼之欲出，而Samsung Pay也将于2月24进行公测。
 - [Google广告彻底放弃Flash，100%转向HTML5](http://top.jobbole.com/33493/) 
 <br>Google广告彻底放弃Flash
