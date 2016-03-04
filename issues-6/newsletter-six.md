@@ -98,7 +98,7 @@
 
 ## 自留地：极客学院相关更新课程
 
-- [【Wiki】Apple Pay 编程指南](http://wiki.jikexueyuan.com/project/apple-pay/l)
+- [【Wiki】Apple Pay 编程指南](http://wiki.jikexueyuan.com/project/apple-pay)
 <br>官方文档最新翻译
 - [【Wiki】Vim 教程](http://wiki.jikexueyuan.com/project/vim/)
 <br>最实用的Vim新手教程
