@@ -33,7 +33,7 @@
 - [【算法】几个分布式基础算法 ](https://yq.aliyun.com/articles/7119?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>几个分布式基础算法
 - [【工具】科技公司钟爱的50款开源工具](https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=405458525&idx=1&sn=55df62ed6bd01823806a0f1823f3d09c)
-<br>IOS第三方资源
+<br>科技公司钟爱的50款开源工具
 - [【工具】ClassyShark——apk分析利器](http://w4lle.github.io/2016/02/15/ClassyShark%E2%80%94%E2%80%94%E5%88%86%E6%9E%90apk%E5%88%A9%E5%99%A8/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 <br>尝试一下或许会用的上
 - [【前端】20个原生JavaScript技巧](http://www.w3cfuns.com/notes/21599/7bfef6a7bad7e558fe0fa89a3707733b)
