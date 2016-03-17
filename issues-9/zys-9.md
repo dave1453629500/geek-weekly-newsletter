@@ -1,4 +1,4 @@
-# 《极客周刊》第九期
+ # 《极客周刊》第九期
 
 (2016年3月13日～3月18日)
 
@@ -6,7 +6,7 @@
 
 - [阿里宣布成立虚拟现实实验室 目的还是让你“剁手”](http://www.devstore.cn/new/newInfo/17511.html) 
 <br>VR技术能为用户创造沉浸式购物体验，你准备好了么
-- [摩贝获数千万美元 C 轮融资](http://www.devstore.cn/new/newInfo/17447.html) 
+- [摩贝获数千万美元 C 轮融资](http://36kr.com/p/5044671.html) 
 <br>7 万亿化学品 B2B 市场尚无巨头
 - [Jigsaw终于添加到JDK 9中了](http://www.infoq.com/cn/news/2016/03/jigsaw-jdk-9) 
 <br>Jigsaw终于添加到JDK 9中了
