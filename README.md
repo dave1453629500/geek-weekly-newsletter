@@ -69,6 +69,7 @@ Labels 分类简介：
 |[极客周刊 第七期](issues-7/newsletter-seven.md)|2016年2月28～3月4日|
 |[极客周刊 第八期](issues-8/newsletter-eight.md)|2016年3月6～3月11日|
 |[极客周刊 第九期](issues-9/newsletter-nine.md)|2016年3月13～3月18日|
+|[极客周刊 第十期](issues-10/newsletter-ten.md)|2016年3月20～3月25日|
 |持续更新ing......||
 
 ## 主编及贡献者
