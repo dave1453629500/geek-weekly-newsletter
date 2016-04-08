@@ -11,4 +11,6 @@
 * [极客周刊第8期](issues-8/newsletter-eight.md)
 * [极客周刊第9期](issues-9/newsletter-nine.md)
 * [极客周刊第10期](issues-10/newsletter-ten.md)
+* [极客周刊第11期](issues-11/newsletter-eleven.md)
+* [极客周刊第12期](issues-12/newsletter-twelve.md.md)
 * [来源站点汇总](reference.md)
