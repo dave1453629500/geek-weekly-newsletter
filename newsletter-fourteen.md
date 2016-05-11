@@ -1,6 +1,6 @@
 # 《极客周刊》 14 期
 
->『极客语录』—世界上有“10”种人：一种懂得二进制，另一种则不懂。
+>『极客语录』—如果一开始你没有成功，就叫它1.0版本。
 
 (2016年5月8日～5月13日)
 
@@ -8,6 +8,24 @@
 
 - [【产品】手把手教你做竞品分析](http://www.pmcaff.com/article/index/209873815520384?from=selection)
 <br>产品必修课，知己知彼
+- [【经验分享】程序员的 13 种噩梦，你遇到过哪些？](http://www.wanwuyun.com/pages/news/303.html)
+<br>据说遇到10个以上的才算老程序员
+- [【架构】每秒处理10万订单乐视集团支付架构](http://geek.csdn.net/news/detail/72973)
+<br>大公司是如何分库分表的
+- [【职业】有追求优秀之心的程序员](http://www.udpwork.com/item/15483.html)
+<br>优秀体现在认真做事
+- [【Swift】一起聊聊 Swift 3.0](http://www.jianshu.com/p/6a9e9e790064)
+<br>从成长到成熟，Swift 今年带来了新的变化
+- [【产品】Google用户体验设计师：一份好的交互文档应该包括哪些内容？](http://www.pmcaff.com/article/index/215852143073408?from=selection)
+<br>明确目的，看看 Google 的设计师是如何处理问题的
+- [【数据库】MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
+<br>最新版，很全面
+- [【数据库】微信支付SDK-两行代码解决支付](http://arccode.net/2016/05/02/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98SDK-%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E8%A7%A3%E5%86%B3%E6%94%AF%E4%BB%98/)
+<br>核心代码2行，思路清晰
+
+
+
+
 
 ## 极客视频推荐
 
