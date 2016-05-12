@@ -66,6 +66,7 @@
 - [奇舞周刊](http://www.75team.com/weekly/)
 - [PM周刊](http://wiki.jikexueyuan.com/project/pmweekly/)
 - [蠎周刊](http://weekly.pychina.org/)
+- [编程狂人](http://www.tuicool.com/mags/)
 
 ### 头条类
 
