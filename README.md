@@ -71,6 +71,7 @@ Labels 分类简介：
 |[极客周刊 第九期](issues-9/newsletter-nine.md)|2016年3月13～3月18日|
 |[极客周刊 第十期](issues-10/newsletter-ten.md)|2016年3月20～3月25日|
 |[极客周刊 第十三期](newsletter-thirteen.md)|2016年5月1～5月4日|
+|[极客周刊 第十四期](newsletter-fourteen.md)|2016年5月8～5月13日|
 |持续更新ing......||
 
 ## 主编及贡献者

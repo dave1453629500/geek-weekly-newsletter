@@ -13,4 +13,5 @@
 - [极客周刊第11期](issues-11/newsletter-eleven.md)
 - [极客周刊第12期](issues-12/newsletter-twelve.md)
 - [极客周刊第13期](newsletter-thirteen.md)
+- [极客周刊第14期](newsletter-fourteen.md)
 - [来源站点汇总](reference.md)
