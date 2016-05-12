@@ -32,6 +32,7 @@
 - [Web资源网](http://webres.wang/)
 - [设计师网址导航](http://www.nav80.com/)
 - [Rss-IT人](https://github.com/Gracker/Rss-IT)
+- [关注黑客与极客](http://www.freebuf.com/)
 
 ### 工具
 
