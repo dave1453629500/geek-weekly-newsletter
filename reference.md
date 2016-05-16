@@ -33,6 +33,7 @@
 - [设计师网址导航](http://www.nav80.com/)
 - [Rss-IT人](https://github.com/Gracker/Rss-IT)
 - [关注黑客与极客](http://www.freebuf.com/)
+- [yivian](http://yivian.com/)
 
 ### 工具
 
@@ -59,6 +60,8 @@
 - [学而学而时嘻之](http://www.geekonomics10000.com/)
 - [Android开发大牛博客](http://geek.csdn.net/news/detail/56179)
 - [CYBERMKD](http://www.cybermkd.com/)
+- [专注于 JavaScript 全栈开发](http://www.longestory.com/)
+- [beforweb](http://www.beforweb.com/)
 
 ### 各技术周刊
 
@@ -83,3 +86,4 @@
 - [直播编程](https://www.livecoding.tv)
 - [medium](https://medium.com)
 - [IT 外文](http://www.vaikan.com/)
+- [hacks.mozilla](https://hacks.mozilla.org/)
