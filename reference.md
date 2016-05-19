@@ -77,6 +77,7 @@
 - [极客头条](http://geek.csdn.net/)
 - [技术头条](http://blogread.cn/news/)
 - [今日头条科技](http://toutiao.com/news_tech/)
+- [科技大事件](http://d.youth.cn/tech_focus/)
 
 ### 国外免费书籍
 
