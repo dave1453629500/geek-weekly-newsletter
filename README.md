@@ -75,6 +75,7 @@ Labels 分类简介：
 |[极客周刊 第十三期](newsletter-thirteen.md)|2016年5月1～5月4日|
 |[极客周刊 第十四期](newsletter-fourteen.md)|2016年5月8～5月13日|
 |[极客周刊 第十五期](newsletter-fifteen.md)|2016年5月15～5月20日|
+|[极客周刊 第十六期](newsletter-sixteen.md)|2016年5月22～5月27日|
 |持续更新ing......||
 
 ## 主编及贡献者
