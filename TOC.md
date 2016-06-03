@@ -16,4 +16,5 @@
 - [极客周刊第14期](newsletter-fourteen.md)
 - [极客周刊第15期](newsletter-fifteen.md)
 - [极客周刊第16期](newsletter-sixteen.md)
+- [极客周刊第17期](newsletter-seventeen.md)
 - [来源站点汇总](reference.md)
