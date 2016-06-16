@@ -36,14 +36,6 @@
 
 参考例子请看这里：<https://github.com/jikexueyuanwiki/geek-weekly-newsletter/issues/1>
 
-Labels 分类简介：
-
-   - 新鲜事——业内（互联网IT技术）一周大事件汇总
-   - 干货集：IT技术干货汇聚（类似开发者头条，不要求时间上最新，力求实用）
-   - 大集市：乱七八糟的一些有价值的东西
-   - 爱分享：用户原创或者分享的有价值内容，包括视频、博客、教程等
-   - 自留地：极客学院相关课程（包括视频、Wiki、问答、Download 等）、产品更新及相关活动的推荐
-
 ### 2.非 GitHub 用户投稿
 
 投稿请点击： [http://form.mikecrm.com/f.php?t=iB0rVf](http://form.mikecrm.com/f.php?t=iB0rVf)   
@@ -77,6 +69,7 @@ Labels 分类简介：
 |[极客周刊 第十五期](newsletter-fifteen.md)|2016年5月15～5月20日|
 |[极客周刊 第十六期](newsletter-sixteen.md)|2016年5月22～5月27日|
 |[极客周刊 第十七期](newsletter-seventeen.md)|2016年5月29～6月3日|
+|[极客周刊 第十八期](newsletter-eighteen.md)|2016年6月13～6月17日|
 |持续更新ing......||
 
 ## 主编及贡献者
