@@ -47,6 +47,7 @@
 
 ### 个人博客
 
+- [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 - [wustrive博客](http://wustrive2008.github.io/)
 - [月光博客](http://www.williamlong.info/)
 - [I code it](http://icodeit.org/)
