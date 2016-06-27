@@ -2,6 +2,7 @@
 
 ### 技术社区
 
+- [FED](http://taobaofed.org/)
 - [花瓣-设计师](http://huaban.com/)
 - [PMCAFF](http://www.pmcaff.com/)
 - [Github 新项目汇报](http://www.open-open.com/github/)

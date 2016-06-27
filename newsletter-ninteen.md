@@ -12,7 +12,7 @@
 <br>系统的编程能力正体现在“重新制造”的能力
 - [【分享】自己动手写贝叶斯分类器给图书分类](http://www.jianshu.com/p/f6a3f3200689)
 <br>对图书进行二元分类
-- [【前端】聊一聊淘宝首页和它背后的一套](http://www.infoq.com/cn/news/2016/06/wwdc-keynote)
+- [【前端】聊一聊淘宝首页和它背后的一套](http://taobaofed.org/blog/2016/06/02/thing-about-taobao-homepage/)
 <br>千变万化不离其道
 - [【技术分享】Python 性能分析大全](http://selfboot.cn/2016/06/13/python_performance_analysis/?utm_source=tuicool&utm_medium=referral)
 <br>4种写法，执行效率相差45倍
