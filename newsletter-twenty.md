@@ -23,7 +23,7 @@
 - [【技术分享】我所知道的关于 script 标签的一切](https://www.h5jun.com/post/everything-i-know-about-the-script-tag.html?utm_source=tuicool&utm_medium=referral)
 <br>花式秀 script
 - [【现实分析】要聊天，先付费](http://www.ruanyifeng.com/blog/2016/05/group-chat.html)
-<br>为什么你愿意花2000元加入一个陌生的QQ群？
+<br>为什么你愿意花2000元加入一个陌生的 QQ 群？
 - [【iOS】中文版来了！UI设计师必读的IOS 10人机界面设计指南 （一）](http://www.uisdc.com/ios-10-gui-design-guideline-1)
 <br>iOS 10 设计标准中文版
 
