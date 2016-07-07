@@ -71,6 +71,8 @@
 |[极客周刊 第十七期](newsletter-seventeen.md)|2016年5月29～6月3日|
 |[极客周刊 第十八期](newsletter-eighteen.md)|2016年6月13～6月17日|
 |[极客周刊 第十九期](newsletter-ninteen.md)|2016年6月19～6月24日|
+|[极客周刊 第二十期](newsletter-twenty.md)|2016年6月26～7月1日|
+|[极客周刊 第二十一期](newsletter-twenty-one.md)|2016年7月3～7月8日|
 |持续更新ing......||
 
 ## 主编及贡献者
