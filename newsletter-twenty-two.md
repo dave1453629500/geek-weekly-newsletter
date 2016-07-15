@@ -88,7 +88,7 @@
 
 [《Linux 入门教程》](http://wiki.jikexueyuan.com/project/linux/) ——我们常用的操作系统是微软的 Windows 或是苹果的 OS X，因为它容易操作，所以使用者很多。 其实还有一种操作系统，这个操作系统本身就是开源免费的，谁都可以免费使用和安装，它就是 linux。 可是国内很少有用户使用 linux，主要是这个需要学习，不然很难操作。 linux 系统入门学习教程，坚持“理论够用、侧重实用”的原则，用案例来讲解每个知识点，对 Linux 做了较为详尽的阐述，来帮助大家学习这个操作系统。
 
-[《Redis 3.0 中文版》](http://wiki.jikexueyuan.com/project/redis-guide/) ——Redis 3.0.0 正式版终于到来了！最重要的新特性是集群（Redis Cluster），提供 Redis 功能子集（比如不支持多数据库）的分布式、容错的实现（最多支持 1000 结点）。本教程是 Redis 3.0 官方文档的翻译版，内容上突出新特性，旨在帮助读者快速上手并掌握 Redis 3.0 的知识点。
+[《Redis 3.0 中文版》](http://wiki.jikexueyuan.com/project/redis-guide/) ——Redis 3.0.0 正式版，最重要的新特性是集群（Redis Cluster），提供 Redis 功能子集（比如不支持多数据库）的分布式、容错的实现（最多支持 1000 结点）。本教程是 Redis 3.0 官方文档的翻译版，内容上突出新特性，旨在帮助读者快速上手并掌握 Redis 3.0 的知识点。
 
 ## 每周三分钟
 

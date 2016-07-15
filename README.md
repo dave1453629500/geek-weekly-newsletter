@@ -73,6 +73,7 @@
 |[极客周刊 第十九期](newsletter-ninteen.md)|2016年6月19～6月24日|
 |[极客周刊 第二十期](newsletter-twenty.md)|2016年6月26～7月1日|
 |[极客周刊 第二十一期](newsletter-twenty-one.md)|2016年7月3～7月8日|
+|[极客周刊 第二十二期](newsletter-twenty-two.md)|2016年7月10～7月15日|
 |持续更新ing......||
 
 ## 主编及贡献者
