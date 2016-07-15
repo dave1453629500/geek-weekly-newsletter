@@ -8,77 +8,101 @@
 
 ### 【项目管理】美军的软创新
 
-一句话：美国最好的商学院竟然在军队。美军的强大是有方法论的，而且他们的思想源于中国，且看这些方法要如何使用在公司的管理，来帮助你更有效的成功。
+你可知，美国最好的商学院竟然在军队。美军的强大是有方法论的，而且他们的指导思想源于中国，且看这些方法要如何使用在公司的管理，来帮助你更有效的成功。
 <br>
 **Form**：<http://www.geekonomics10000.com/976>
-<br>
 
-### 【产品观】为什么说Pokémon GO在中国可能火不起来？
+### 【产品观】为什么说 Pokémon GO 在中国可能火不起来？
 
-任天堂、精灵宝可梦、Niantic合作推出的Pokémon GO（《口袋妖怪Go》）最近火得一塌糊涂，全名 AR 的时代已经来临，但有人却认为这款游戏在中国可能火不起来，你怎么看？
+任天堂、精灵宝可梦、Niantic合作推出的Pokémon GO（《口袋妖怪Go》）最近火得一塌糊涂，预示着 AR 的时代已经来临，但有人却认为这款游戏在中国可能火不起来，你怎么看？
 <br>
 **From**:<http://www.pmcaff.com/discuss/answer/308739457141824?from=selection>
+
+### 【前端技术】React 开发一款简单的赛车游戏
+
+笔者一步步教你用 React 写出一款纯 JavaScript+CSS 的小游戏，并且玩法很简单，左右控制赛车躲避来车，碰撞即游戏失败。
 <br>
+**From**:<https://blog.coding.net/blog/react-simple-game>
+
+### 【译】22个必备的CSS小技巧
+
+从渐变边框到CSS计数器，再到 Color + Border = Border-Color 的认知，这22个小技巧是前端开发必须要了解的技术。
+<br>
+**From**:<http://www.tuicool.com/articles/77jEbm>
+
+### 【后端开发】Python 工匠：善用变量来改善代码质量
+
+编程某种意义上是一门『手艺』，因为优雅而高效的代码，就如同完美的手工艺品一样让人赏心悦目。
+<br>
+**From**:<http://www.zlovezl.cn/articles/python-using-variables-well>
+
+### 【面经】一个五年Android 开发者百度、阿里、聚美、映客的面试心经
+
+也许会有人感叹某些人的运气比较好，但是他们不曾知道对方吃过多少苦，受过多少委屈。某些时候就是需要我们用心去发现突破点，然后顺势而上，抓住机遇，那么你将会走向另外一条大道，成就另外一个全新的自我。
+<br>
+**From**:<http://www.diycode.cc/topics/165>
+
+### 【分享】程序员进阶必看！Java进阶书籍推荐
+
+学习Java，书籍是必不可少的学习工具之一，尤其是对于自学者而言。文中从初中高三级分别推荐了学习的书籍。
+<br>
+**From**:<http://www.58maisui.com/2016/07/15/a-546/>
 
 ## 极客视频推荐
 
-### Node.js 实践： 使用 MongoDB 存储数据
+### 使用 jQuery 制作京东网的焦点图
 
-<a href="http://www.jikexueyuan.com/course/1976.html"><img src="http://a1.jikexueyuan.com/home/201509/10/2e4a/55f0e8bb7e32e.jpg"/>
-</a>
+<img src="http://a1.jikexueyuan.com/home/201601/05/bc66/568b32a34ce08.jpg"/>
 
-**课程背景**：数据存储是编程实践中经常需要实现的功能，而最常与 Node.js 做搭档的数据库方案，当数 MongoDB。最基本的原因是 MongoDB 对 JavaScript 和 Json 的原生支持，而深层次的原因，则是它非常适合存取 Web 应用数据。
+**课程背景**：自动轮播的焦点图无论是企业站还是电商商城网站中，经常见到的效果，他能在最小的区域完成内容最大量的展现，学会了这种技术，无需再调用其他人开发的组件，你可以自定义将这种效果放置到网站的任意位置。使用最简单的方式，让你开发无障碍。
 
-**课程地址**：<http://www.jikexueyuan.com/course/1976.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2417.html>
 
-### Objective-C 基础
+### iOS 界面动画教程之自动布局
 
-<a href="http://www.jikexueyuan.com/course/2671.html"><img src="http://a1.jikexueyuan.com/home/201604/14/f728/570efcd27e5dc.jpg"/>
-</a>
+<img src="http://a1.jikexueyuan.com/home/201603/21/a8db/56ef577e74c63.jpg"/>
 
-**课程背景**：目前我们正处在移动互联网的风口浪尖时期，移动互联网的产业也正以惊人的速度快速发展，比如像金融行业、K12 教育行业、智能机器人行业、智能家居行业、各种垂类行业等等都在通过移动互联网落地生根，占据了所属行业的半壁江山，因此市场对从事移动互联网开发的人员的需求也越来越大，要求也越来越高，所以在我们在从事这个行业之前就有必要对这个行业有一定的了解，知道他的发展史和现状我们才能知道需要哪些基础条件，要去做什么，怎么样去做。所以这节课就为大家来详细讲解下相关的知识内容。
+**课程背景**：苹果推出的自动布局特性已经有很长一段时间了，从 iOS 6 开始，经过一版又一版的不断更新迭代，使其在技术上越来越成熟。自动布局背后的核心思想其实非常的简单：它通过定义 UI 元素之间的关系来创建界面布局。
 
-**课程地址**：<http://www.jikexueyuan.com/course/1976.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2618.html>
 
-### 前端开发高级调试
+### SpringMVC 实现文件上传下载与国际化
 
-<a href="http://www.jikexueyuan.com/course/2308.html"><img src="http://a1.jikexueyuan.com/home/201512/01/6652/565d1448d24a6.jpg"/>
-</a>
+<img src="http://a1.jikexueyuan.com/home/201601/18/fa62/569c532842cac.jpg"/>
 
-**课程背景**：很多同学开发前端很多年调试一直主要就是用Console以及NetWork和审查元素进行调试，实则作为高级前端开发人员必须要掌握深层次的调试，比如重绘重排FPS等等。本节课带大家深入的学习前端调试。
+**课程背景**：在使用 SpringMVC 尽兴项目开发过程中，可以很方便的实现文件上传、下载与创建图片验证码功能，同时国际化和执行定时任务也是非常有用的功能点，学好这些知识点，对于后续项目开发有很大作用。
 
-**课程地址**：<http://www.jikexueyuan.com/course/1976.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2454.html>
 
-### PHP 面向对象程序设计之异常处理
+### 如何通过 Nrpe 进行监控
 
-<a href="http://www.jikexueyuan.com/course/2414.html"><img src="http://a1.jikexueyuan.com/home/201601/04/c4b5/5689d32469702.jpg"/>
-</a>
+<img src="http://a1.jikexueyuan.com/home/201511/04/7da6/563963adcea44.jpg"/>
 
-**课程背景**：异常（Exception）处理用于在指定的错误发生时改变脚本的正常流程，是 PHP5 中的一个新的重要特性。异常处理是一种可扩展、易维护的错误处理统一机制，并提供了一种新的面向对象的错误处理方式。
+**课程背景**：通常情况下，使用 Nagios 对 Linux 服务器进行监控，我们一般通过 Nrpe 和 Snmp 的方式对其下发监控指令。本课主要介绍如何通过 Nrpe 对 Linux 进行监控。
 
-**课程地址**：<http://www.jikexueyuan.com/course/1976.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2216.html>
 
 ## 极客Wiki推荐
 
-[《Android Gradle 用户指南》](http://wiki.jikexueyuan.com/project/android-gradle-guide/) ——对于大多数程序员，C是极其可怕而且邪恶的。他就像是恶魔、撒旦，或者一个使用指针的花言巧语和对机器的直接访问来破坏你生产力的骗子洛基。于是，一旦这位计算界的路西法将你缠住，他就会使用邪恶的“段错误”来毁掉你的世界，并且揭露出与你交易中的骗局而嘲笑你。
+[《LeetCode 题解 （多语言版）》](http://wiki.jikexueyuan.com/project/leetcode-book/) ——LeetCode（官网：leetcode.com） 是一个美国的在线编程网站，上面主要收集了各大IT公司的笔试面试题，对于应届毕业生找工作是一个不可多得的好帮手。
 
-[《JSON 教程》](http://wiki.jikexueyuan.com/project/json/) ——本教程会帮助我们了解 JSON 以及如何在各种编程语言，比如 PHP，PERL，Python，Ruby，Java等等编程语言中使用它。JSON 或者 JavaScript 对象表示法是一种轻量级的基于文本的开放标准，被设计用于可读的数据交换。JSON 格式最初由 Douglas Crockford 提出，使用 RFC 4627 描述。JSON 的官方网络媒体类型是 application/json。JSON 的文件名扩展是 .json。
+[《Linux 入门教程》](http://wiki.jikexueyuan.com/project/linux/) ——我们常用的操作系统是微软的 Windows 或是苹果的 OS X，因为它容易操作，所以使用者很多。 其实还有一种操作系统，这个操作系统本身就是开源免费的，谁都可以免费使用和安装，它就是 linux。 可是国内很少有用户使用 linux，主要是这个需要学习，不然很难操作。 linux 系统入门学习教程，坚持“理论够用、侧重实用”的原则，用案例来讲解每个知识点，对 Linux 做了较为详尽的阐述，来帮助大家学习这个操作系统。
 
-[《WebGL 中文版》](http://wiki.jikexueyuan.com/project/webgl/) ——WebGL 是一种 3D 绘图标准，这种绘图技术标准允许把 JavaScript 和 OpenGL ES 2.0 结合在一起，通过增加 OpenGL ES 2.0 的一个 JavaScript 绑定，WebGL 可以为 HTML5 Canvas 提供硬件 3D 加速渲染，这样 Web 开发人员就可以借助系统显卡来在浏览器里更流畅地展示3D场景和模型了，还能创建复杂的导航和数据视觉化。本教程是 WebGL 的最新版介绍，文章区别于网上其他同类的内容，内容全面且新颖，旨在通过简洁的介绍，让读者明白 WebGL 是如何使用的。
+[《Redis 3.0 中文版》](http://wiki.jikexueyuan.com/project/redis-guide/) ——Redis 3.0.0 正式版终于到来了！最重要的新特性是集群（Redis Cluster），提供 Redis 功能子集（比如不支持多数据库）的分布式、容错的实现（最多支持 1000 结点）。本教程是 Redis 3.0 官方文档的翻译版，内容上突出新特性，旨在帮助读者快速上手并掌握 Redis 3.0 的知识点。
 
 ## 每周三分钟
 
-### 谷歌DeepMind可以检测眼疾
+### IBM和AT&T将合作加快物联网部署
 
-　　谷歌旗下人工智能公司DeepMind与英国国民健康服务（NHS）部门再次展开合作，将利用机器学习来分析超过一百万名匿名眼部患者的扫描数据，创建可以进行早期检测预警的算法，以尽早检测到眼疾征兆。举例来说，糖尿病患者的视网膜会出现病变，很可能会导致患者失明，而DeepMind就能对这类人进行检测，尽早发现病变组织，预防失明。就目前而言，DeepMind已经录入了160万名眼疾患者的扫描记录，当然公司方面也会做好网络安全的防护工作，不会将患者数据泄露出去，患者无需担心隐私问题。
+　　无线通讯巨头AT&T与“蓝色巨人”IBM将合作加快物联网部署计划，IBM和AT&T都表示将会整合双方的云计算以及物联网平台，加快操作性，为开发人员提供更方便的工具。IBM将提供Bluenix和沃森物联网平台，AT&T则一直在寻找一个可以在物联网平台上使用的连接播放器。上个月，IBM还与思科达成了一项关于物联网部署的协议，而和AT&T之间的合作，将会基于连接性设备给予开发者更多的数据分析。
 
-### Facebook Messenger聊天机器人已超11000个
+### 苹果将联合Propagate推出真人秀节目
 
-　　据悉，Messenger聊天机器人是在今年4月被推出的，短短几个月发展很猛，现在Messenger上推出的机器人就已经超过了11000个，这是Messenger发展史上的一大里程碑。具体来说，聊天机器人更新的功能有机器人评级功能，用户可以对机器人进行从1星到5星的评价；快速回复功能，包括在最近聊天内容上添加最多10个动态按钮，大大提升交互的自动化程度；支持最多5个动作的快捷菜单；账号自动链接功能以及支持发送更多的内容类型（音频和GIF）等。
+　　据悉，苹果联合Propagate推出了一档关于“应用经济”的真人秀节目Planet of the Apps。该节目无剧本，目前正在招募参与者，招募人员主要面向那些开发者们，两家公司希望能看到这些人在节目里尽情施展才华。苹果还表示其实这也不单单是一场真人秀，也是为开发者们提供的一个机会和平台，最终成功入围的开发者们将会接受来自“世界最优秀的科技和娱乐专家”的指导，最高可以获得1000万美元的投资资金。
 
-### 亚马逊分拣挑战赛：荷兰机器人夺冠
+### 微软推出Linux Skype Alpha版本
 
-　　近日，在亚马逊分拣货物挑战赛上，来自荷兰的代尔夫特理工大学研发的独臂机器人击败了15个来自其他国家的不同对手，赢得了冠军并获得5万美元奖金。荷兰代尔夫特理工大学团队的独臂机器人由吸盘、“两指”夹持器和3D深度感应摄像机等组装而成。它有分拣功能，能快速精确地从仓库中找到20个指定的货物，然后将货物放回货架并保持货物完好无损，还能将货物按照原样放回。这类比赛对许多仓储物流公司有着巨大的影响，机器的高效能和低成本，促使这些公司越来越倾向于推进“机器人换人”的进程。
+　　当地时间7月13日，微软发布了Linux Skype Alpha版本。新的应用程序使用WebRTC技术，确保微软在未来的日子里继续支持Linux用户。微软指出，Linux Skype Alpha版本在界面和功能上和旧版本有很大不同，用户可以共享文件，照片和视频，以及使用全新的表情符号。使用Linux Skype Alpha版本应用的用户可以和使用Windows、Mac、iOS和Android版本的用户进行通话。另外值得一提的是，这是一个Alpha版本，意味着它比Beta测试版处于更早的开发阶段，用户可能会在其中碰到许多Bug。
 
 ## 感谢收看
 
@@ -89,6 +113,6 @@
 
 ### 每周五，我们在这里等你～
 
-欢迎扫描 **极客weekly** 公众号二维码
+欢迎扫描 **极客weekly** 公众号二维码，让学习更有效~
 
 ![](images/weixin.jpg)
