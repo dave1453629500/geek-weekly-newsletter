@@ -37,6 +37,10 @@
 - [yivian](http://yivian.com/)
 - [众成翻译](http://www.zcfy.cc/)
 
+### 机器学习
+
+- [资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+
 ### 工具
 
 - [CC 4.0 生成工具](https://creativecommons.org/choose/)
