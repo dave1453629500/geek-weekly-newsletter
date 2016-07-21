@@ -62,13 +62,13 @@ Linux 比较全面的脑图，从 Linux 系统工程师、Linux 内核、Linux�
 
 **课程地址**：<http://www.jikexueyuan.com/course/1343.html>
 
-### Android 入门开发实战之汽车顾问
+### 增强现实 超凡体验 Qualcomm Vuforia SDK 在线培训
 
-<img src="http://a1.jikexueyuan.com/home/201509/21/a58b/55ff5ea422731.jpg"/>
+<img src="http://a1.jikexueyuan.com/home/201511/05/8ae5/563ab7374077c.jpg"/>
 
-**课程背景**：本课程是希望通过一个简单的应用来演示如何开发一个 Android 应用。希望能给入门级学员提供一个清晰的思路。
+**课程背景**：Vuforia SDK 是扩增实境软件开发工具包，是 Qualcomm 推出的针对移动设备扩增实境应用的软件开发工具包。它利用计算机视觉技术实时识别和捕捉平面图像或三维物体（例如盒子），然后允许开发者通过照相机取景器放置虚拟物体并调整物体在镜头前实体背景上的位置。可以建立基于视觉的增强现实的应用程序，其可用于安卓和互联网操作系统（iOS）并且扩展为统一体-跨平台游戏引擎。 
 
-**课程地址**：<http://www.jikexueyuan.com/course/2047.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2223.html>
 
 ### 面向对象入门
 
