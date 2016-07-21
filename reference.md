@@ -35,6 +35,7 @@
 - [Rss-IT人](https://github.com/Gracker/Rss-IT)
 - [关注黑客与极客](http://www.freebuf.com/)
 - [yivian](http://yivian.com/)
+- [众成翻译](http://www.zcfy.cc/)
 
 ### 工具
 
