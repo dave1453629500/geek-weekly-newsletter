@@ -24,4 +24,5 @@
 * [极客周刊第21期](newsletter-twenty-one.md)
 * [极客周刊第22期](newsletter-twenty-two.md)
 * [极客周刊第23期](newsletter-twenty-three.md)
+* [极客周刊第23期](newsletter-twenty-four.md)
 * [来源站点汇总](reference.md)
