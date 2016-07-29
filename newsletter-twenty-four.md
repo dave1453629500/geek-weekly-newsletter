@@ -9,50 +9,49 @@
 ### 【大数据】Spark 2.0.0 正式发布
 
 Apache Spark 2.0.0正式发布了, 该版本的主要更新包括API可用性、SQL 2003支持、性能改进、结构化Streaming、R UDF支持以及运维改进。
-<br>
 
 **Form**:<http://www.oschina.net/news/75627/apache-spark-2-0-0>
 
 ### 【前端技术】jQuery 3.0 的新特性
 
 jQuery 称霸互联网世界已有十个年头了，它能一直坚守不是没有理由的。经过很长一段时间，jQuery在上个月发布了新版本：jQuery 3.0和jQuery Compat 3.0（兼容版本）。
-<br>
+
 **Form**:<http://www.zcfy.cc/article/what-s-inside-jquery-3-0-jquery-3-0-new-features-917.html>
 
 ### 【产品观】网站流量突然下降应该怎么找原因？
 
 之前聊过，网站运营的最关键的工作的就是引流，没有人网站运营后面的工作无法开展，所以我们每天都要关注自己网站的流量。通常我们都会给网站安装统计代码，然后每天收集网站用户访问的数据。但是很多时候我们都会碰到这种情况，就是网站的流量出现异常下降情况，但是很多时候我们在遇到网站流量异常时，尤其是新手，就会慌了神，不知道什么原因，也不知道从哪里着手分析，更别提提出有效的解决方案了，老板询问原因半天吱吱呜呜，也说不清状况。今天笔者就来和大家聊聊当我们网站流量出现突然下跌的时候，我们应该从哪些方面对网站进行检查，逐步排查原因，直到找到解决办法。
-<br>
+
 **From**:<http://www.williamlong.info/archives/4681.html>
 
 ### 【VR技术】虚拟现实未来的8大应用
 
 虚拟现实是科幻小说作家数十年以来一直在幻想的东西。现在市场上已经有很多不同的虚拟现实头显了（当然有些头显的价格并不是那么的亲民，如HTC Vive和Oculus Rift）。在未来的几年里，虚拟现实行业将会有更多的创新。
-<br>
+
 **From**:<http://yivian.com/2016/07/04/vr330/18570>
 
 ### 【前端技术】ES6 你可能不知道的事 - 基础篇
 
 首先这篇文章不是工具书，不会去过多谈概念，而是想聊聊关于每个特性 你可能不知道的事，希望能为各位同学 正确使用 ES6，提供一些指导。
-<br>
+
 **From**:<http://taobaofed.org/blog/2016/07/22/es6-basics/>
 
 ### 【算法】推荐算法概览
 
 四类推荐算法：协同过滤（Collaborative Filtering）的推荐算法；基于内容过滤（Content-based Filtering）的推荐算法；混合型推荐算法；流行度推荐算法
-<br>
+
 **From**:<http://geek.csdn.net/news/detail/91818>
 
 ### 【面经】Android 开发工程师面试指南
 
 这份指南包含了大部分Android开发的基础、进阶知识，不仅可以帮助准备面试的同学，也可以帮助正在学习和工作的同学梳理自己的知识点。有心的同学也可以帮他们不断完善。
-<br>
+
 **From**:<http://www.diycode.cc/wiki/androidinterview>
 
 ### 【分享】国内知名技术博客总结
 
 知名互联网公司内部团队博客汇总。
-<br>
+
 **From**:<http://asteam.cc/index.php/archives/10/>
 
 ## 每周三分钟
