@@ -6,95 +6,101 @@
 
 ## 互联网大集市
 
-### 【前端技术】JavaScript中‘this’关键词的优雅解释
+### 【大数据】Spark 2.0.0 正式发布
 
-许多时候，this关键词对我以及许多刚起步的JavaScript程序员来说，都是一个谜。它是一种很强大的特性，但是理解它需要花不少功夫。
+Apache Spark 2.0.0正式发布了, 该版本的主要更新包括API可用性、SQL 2003支持、性能改进、结构化Streaming、R UDF支持以及运维改进。
 <br>
-**Form**:<http://www.zcfy.cc/article/gentle-explanation-of-this-keyword-in-javascript-901.html>
+**Form**:<http://www.oschina.net/news/75627/apache-spark-2-0-0>
 
-### 【产品观】让产品像Pokemon Go一样游戏化的7个方式
+### 【前端技术】jQuery 3.0 的新特性
 
-国外玩家对这款游戏有多疯狂？为了抓小精灵有进入禁区的、有走入墓地的、有不舍昼夜的、还有新闻说墨西哥小哥在玩这个游戏时可能为了捕捉小精灵，一时入迷，从大桥上掉下来摔死了（后被辟谣）。那么如何把产品打造的像游戏那么吸引人，文中提供了几条中肯的建议。
+jQuery 称霸互联网世界已有十个年头了，它能一直坚守不是没有理由的。经过很长一段时间，jQuery在上个月发布了新版本：jQuery 3.0和jQuery Compat 3.0（兼容版本）。
 <br>
-**From**:<http://www.pmcaff.com/article/index/318689034053760?from=selection>
+**Form**:<http://www.zcfy.cc/article/what-s-inside-jquery-3-0-jquery-3-0-new-features-917.html>
 
-### 【移动开发】Android自定义view详解
+### 【产品观】网站流量突然下降应该怎么找原因？
 
-对于很多的 Android 入门程序猿来说，Android自定义View，是比较难以理解的，但是这又是高手进阶的必经之路，本章作者，自己从 0 开始讲解了“自己的 View开发之路”。
+之前聊过，网站运营的最关键的工作的就是引流，没有人网站运营后面的工作无法开展，所以我们每天都要关注自己网站的流量。通常我们都会给网站安装统计代码，然后每天收集网站用户访问的数据。但是很多时候我们都会碰到这种情况，就是网站的流量出现异常下降情况，但是很多时候我们在遇到网站流量异常时，尤其是新手，就会慌了神，不知道什么原因，也不知道从哪里着手分析，更别提提出有效的解决方案了，老板询问原因半天吱吱呜呜，也说不清状况。今天笔者就来和大家聊聊当我们网站流量出现突然下跌的时候，我们应该从哪些方面对网站进行检查，逐步排查原因，直到找到解决办法。
 <br>
-**From**:<http://shaohui.xyz/2016/07/08/Android%E8%87%AA%E5%AE%9A%E4%B9%89view%E8%AF%A6%E8%A7%A3/>
+**From**:<http://www.williamlong.info/archives/4681.html>
 
-### 【项目管理】Git 远程操作的正确姿势
+### 【VR技术】虚拟现实未来的8大应用
 
-Git有很多优势，其中之一就是远程操作非常简便。本文详细介绍5个Git命令，它们的概念和用法，理解了这些内容，你就会完全掌握Git远程操作。
+虚拟现实是科幻小说作家数十年以来一直在幻想的东西。现在市场上已经有很多不同的虚拟现实头显了（当然有些头显的价格并不是那么的亲民，如HTC Vive和Oculus Rift）。在未来的几年里，虚拟现实行业将会有更多的创新。
 <br>
-**From**:<http://w3cschool.codecloud.net/git/git-remote-operating.html#git-remote-operating>
+**From**:<http://yivian.com/2016/07/04/vr330/18570>
 
-### 【算法】A*，那个传说中的算法
+### 【前端技术】ES6 你可能不知道的事 - 基础篇
 
-很多玩过星际、魔兽的朋友都知道，我们会选中单位并让他们在地图上移动，作者对这个找路算法做了些研究，所有的资料都一致显示，这些寻路算法，基本上使用的都是一个叫做A*的算法。
+首先这篇文章不是工具书，不会去过多谈概念，而是想聊聊关于每个特性 你可能不知道的事，希望能为各位同学 正确使用 ES6，提供一些指导。
 <br>
-**From**:<http://www.devstore.cn/essay/essayInfo/7009.html>
+**From**:<http://taobaofed.org/blog/2016/07/22/es6-basics/>
 
-### 【面经】国内一线互联网公司内部面试题库
+### 【算法】推荐算法概览
 
-以下面试题来自于百度、小米、乐视、美团、58、猎豹、360、新浪、搜狐内部题库。熟悉本文中列出的知识点会大大增加通过前两轮技术面试的几率。
+四类推荐算法：协同过滤（Collaborative Filtering）的推荐算法；基于内容过滤（Content-based Filtering）的推荐算法；混合型推荐算法；流行度推荐算法
 <br>
-**From**:<https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md>
+**From**:<http://geek.csdn.net/news/detail/91818>
 
-### 【分享】Linux思维导图整理
+### 【面经】Android 开发工程师面试指南
 
-Linux 比较全面的脑图，从 Linux 系统工程师、Linux 内核、Linux安全、文件、桌面等方面，分别展开说明。
+这份指南包含了大部分Android开发的基础、进阶知识，不仅可以帮助准备面试的同学，也可以帮助正在学习和工作的同学梳理自己的知识点。有心的同学也可以帮他们不断完善。
 <br>
-**From**:<http://www.jianshu.com/p/59f759207862>
+**From**:<http://www.diycode.cc/wiki/androidinterview>
+
+### 【分享】国内知名技术博客总结
+
+知名互联网公司内部团队博客汇总。
+<br>
+**From**:<http://asteam.cc/index.php/archives/10/>
 
 ## 极客视频推荐
 
-### 和PHP配合那些事
+### iOS 设计模式——代理
 
-<img src="http://a1.jikexueyuan.com/home/201605/13/3b03/57357e6782d66.png"/>
+<img src="http://a1.jikexueyuan.com/home/201510/22/c98c/56283e0b1528d.jpg"/>
 
-**课程背景**：PHP是一种通用开源脚本语言。利于学习，使用广泛，主要适用于Web开发领域。它可以比CGI或者Perl更快速地执行动态网页。PHP是将程序嵌入到HTML文档中去执行，执行效率比完全生成HTML标记的CGI要高许多。所以很多公司会直接使用PHP作为开发的首选，但是里面涉及到前端更多的是更PHP去配合，而且我们可以构建前端架构利用模板与PHP交互。
+**课程背景**：代理模式应该是做 iOS 开发过程中每个人都用到过的设计模式，以至于用得太普遍而分不清代理和协议之间的差异。本课程将会向大家讲解代理模式、代理与协议的区别以及用抽象基类 NSProxy 实现代理模式。
 
-**课程地址**：<http://www.jikexueyuan.com/course/1343.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2167.html>
 
-### 增强现实 超凡体验 Qualcomm Vuforia SDK 在线培训
+### AngularJS 进阶
 
-<img src="http://a1.jikexueyuan.com/home/201511/05/8ae5/563ab7374077c.jpg"/>
+<img src="http://a1.jikexueyuan.com/home/201505/07/6e19/554ac3697814b.jpg"/>
 
-**课程背景**：Vuforia SDK 是扩增实境软件开发工具包，是 Qualcomm 推出的针对移动设备扩增实境应用的软件开发工具包。它利用计算机视觉技术实时识别和捕捉平面图像或三维物体（例如盒子），然后允许开发者通过照相机取景器放置虚拟物体并调整物体在镜头前实体背景上的位置。可以建立基于视觉的增强现实的应用程序，其可用于安卓和互联网操作系统（iOS）并且扩展为统一体-跨平台游戏引擎。
+**课程背景**：AngularJS 的思想很前卫 ,与传统的 JavaScript 框架的用法和思想不一样，还可以让我们以更简洁、更直接的方法构建 Web 应用。
 
-**课程地址**：<http://www.jikexueyuan.com/course/2223.html>
+**课程地址**：<http://www.jikexueyuan.com/course/855.html>
 
-### 面象对象入门
+### Django简要介绍
 
-<img src="http://a1.jikexueyuan.com/home/201511/02/622d/5636c62a391f4.jpg"/>
+<img src="http://a1.jikexueyuan.com/home/201501/23/b34c/54c1a8951f1cc.jpg"/>
 
-**课程背景**：面向对象是 PHP5 中的新加功能，也是 PHP 以后编写代码的方式。通过本课程的学习，学员能够快速的掌握面向对象的入门知识，并掌握如何抽象一个类。
+**课程背景**：网站开发需要许多领域知识，Django 以一站式解决方案的形式大大缩短的开发周期。本次课程将会带大家了解 Django 项目的基本轮廓。
 
-**课程地址**：<http://www.jikexueyuan.com/course/2205.html>
+**课程地址**：<http://www.jikexueyuan.com/course/503.html>
 
-### 极客 iPhone 登录界面设计实例
+### 链表的排序
 
-<img src="http://a1.jikexueyuan.com/home/201602/23/581f/56cbba17900c3.jpg"/>
+<img src="http://a1.jikexueyuan.com/home/201603/07/c553/56dcdcd1af116.jpg"/>
 
-**课程背景**：通过界面设计实例来进一步熟悉、掌握 Photoshop 入门操作是 UI 学习非常重要的实战环节。通过流程化的界面设计，还可以帮助学员掌握高效的设计实现方法，积累设计经验。
+**课程背景**：由于单链表自身的特性，使得的单链表相关的排序处理也变得多样化，本课程就深入讨论该问题。
 
-**课程地址**：<http://www.jikexueyuan.com/course/2550.html>
+**课程地址**：<http://www.jikexueyuan.com/course/2581.html>
 
 ## 每周三分钟
 
-### Uber将使用高清卫星图像优化载客服务
+### Twitter正式推出便签功能
 
-　　据悉，Uber将与卫星成像公司DigitalGlobe合作，以后会通过高清卫星获得道路信息和城市路况等，以便为用户提供更好的服务。DigitalGlobe的高清卫星图像从各个细节展示了城市的地形、路径和导航，并且可以及时更新相关图片，如新开放的车道、建筑项目以及公交车道等，更新速度可能比政府部门更快。除此之外，高清卫星图像在熟悉城市各个布局后，还可以对Uber一直希望发展的无人驾驶服务有所促进。
+　　上个月月底Twitter宣布计划推出便签功能，近日，该功能终于上线。Twitter方面目前已经完成了便签系列的首次展示。据悉，今后用户在使用Twitter时能在所有的图片上添加便签，其中包括表情、食品、面具、帽子、动物等各种有趣的标签，标签的放置位置也不受限制，同时便签也可以进行自由缩放或者旋转，并且可以进行叠加。这样一来，用户就可以在Twitter上有趣又贴切地分享其感受和想法，而这样的创意早在Snapchat和Facebook Messenger应用上出现，并一直深受人们喜欢。
 
-### 谷歌Android Nougat将增强安全防护
+### 微软大幅更新一系列Office产品
 
-　　据外媒报道，随着近日谷歌新一代移动操作系统Android Nougat beta5(安卓7.0)的发布，Android Nougat系统的各项功能逐渐完善。据悉，现在Android Nougat在一定程度上能够防范恶意软件，加强安全防护，届时启动安卓设备的验证程序将更加严格。当设备被某种类型的恶意软件侵袭后，手机出于保护数据的目的将拒绝启动，但与此同时，一些非恶意的数据损坏也可能导致手机无法启动。也就是说，当手机出现损坏的引导镜像或错误分区时，设备将拒绝启动，或者启动一个限制模式，即在用户同意的情况下进行有所限制的设备启动。
+　　近日，微软宣布了一系列Office办公产品的更新，其中包括Word、PowerPoint和Outlook。据悉，新版本Word能为用户提供更全面的拼写和语法检查，拼写问题会出现红波浪线、语法问题下面会出现蓝色双下划线，当Word察觉出用户写作风格时，则会以黄色虚线突出显示那些语句。Outlook也通过本次更新获得大量改进，比如用户可以使用@符号添加收件人，这样用户就可以在电子邮件或者日程表当中任何地方使用此快捷方式。此外，新版PowerPoint能重新排列并动态演示文稿，还增加了文稿演示的动态效果。
 
-### iPhone 7产品代号显示或无Pro型号
+### 亚马逊开始在英国测试无人机快递业务
 
-　　据传言称，2016版iPhone的两款代号为“Sonora”和“Dos Palos”，都是加州的小镇名，并没有第三种代号，这或许意味着苹果仅计划发布两种型号的iPhone。之前传言显示，苹果会推出iPhone 7、iPhone 7 Plus 和 iPhone 7 Pro，甚至也有iPhone 7 Pro的相关谍照，不过目前来看iPhone 7 Pro的相关说法并不能站住脚。从 iPhone 7 的传闻开始出现在互联网上到现在，iPhone 7 Pro 始终都是一个神秘的存在。一方面，很多人都不愿意相信会有这样一款设备来打乱现有的 iPhone 产品线；另一方面，不断有所谓知情人士又或者是专家预测 iPhone 7 Pro 的确存在，令人混淆。
+　　电子商务巨头亚马逊正在将无人机快递业务一步步推向世界。近日，亚马逊宣布其已经与英国政府达成合作，可在英国境内进行无人机快递方面的测试。而此项试验的结果将能在无人机的商业用途方面开发出一片新天地。据悉，英国方面准许的测试包括在农村和近郊地区测试超出视线范围的无人机运营、测试无人机识别并躲避障碍物的能力以及让一名操作人员同时操作多台高度自动化的无人机。为了确保安全，英国民航局将全程参与这些测试，并通过测试来制定相应的政策法规。
 
 > 欢迎扫描 **极客weekly** 公众号二维码，让学习更有效~
 
