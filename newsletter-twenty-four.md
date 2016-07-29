@@ -54,40 +54,6 @@ jQuery 称霸互联网世界已有十个年头了，它能一直坚守不是没�
 <br>
 **From**:<http://asteam.cc/index.php/archives/10/>
 
-## 极客视频推荐
-
-### iOS 设计模式——代理
-
-<img src="http://a1.jikexueyuan.com/home/201510/22/c98c/56283e0b1528d.jpg"/>
-
-**课程背景**：代理模式应该是做 iOS 开发过程中每个人都用到过的设计模式，以至于用得太普遍而分不清代理和协议之间的差异。本课程将会向大家讲解代理模式、代理与协议的区别以及用抽象基类 NSProxy 实现代理模式。
-
-**课程地址**：<http://www.jikexueyuan.com/course/2167.html>
-
-### AngularJS 进阶
-
-<img src="http://a1.jikexueyuan.com/home/201505/07/6e19/554ac3697814b.jpg"/>
-
-**课程背景**：AngularJS 的思想很前卫 ,与传统的 JavaScript 框架的用法和思想不一样，还可以让我们以更简洁、更直接的方法构建 Web 应用。
-
-**课程地址**：<http://www.jikexueyuan.com/course/855.html>
-
-### Django简要介绍
-
-<img src="http://a1.jikexueyuan.com/home/201501/23/b34c/54c1a8951f1cc.jpg"/>
-
-**课程背景**：网站开发需要许多领域知识，Django 以一站式解决方案的形式大大缩短的开发周期。本次课程将会带大家了解 Django 项目的基本轮廓。
-
-**课程地址**：<http://www.jikexueyuan.com/course/503.html>
-
-### 链表的排序
-
-<img src="http://a1.jikexueyuan.com/home/201603/07/c553/56dcdcd1af116.jpg"/>
-
-**课程背景**：由于单链表自身的特性，使得的单链表相关的排序处理也变得多样化，本课程就深入讨论该问题。
-
-**课程地址**：<http://www.jikexueyuan.com/course/2581.html>
-
 ## 每周三分钟
 
 ### Twitter正式推出便签功能
