@@ -10,6 +10,7 @@
 
 Apache Spark 2.0.0正式发布了, 该版本的主要更新包括API可用性、SQL 2003支持、性能改进、结构化Streaming、R UDF支持以及运维改进。
 <br>
+
 **Form**:<http://www.oschina.net/news/75627/apache-spark-2-0-0>
 
 ### 【前端技术】jQuery 3.0 的新特性
