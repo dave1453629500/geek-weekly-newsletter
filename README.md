@@ -76,6 +76,7 @@
 |[极客周刊 第二十二期](newsletter-twenty-two.md)|2016年7月10～7月15日|
 |[极客周刊 第二十三期](newsletter-twenty-three.md)|2016年7月17～7月22日|
 |[极客周刊 第二十四期](newsletter-twenty-four.md)|2016年7月24～7月29日|
+|[极客周刊 第二十五期](newsletter-twenty-five.md)|2016年8月1～8月5日|
 |持续更新ing......||
 
 ## 主编及贡献者
