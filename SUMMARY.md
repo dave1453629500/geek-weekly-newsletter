@@ -26,4 +26,5 @@
 * [极客周刊第23期](newsletter-twenty-three.md)
 * [极客周刊第24期](newsletter-twenty-four.md)
 * [极客周刊第25期](newsletter-twenty-five.md)
+* [极客周刊第26期](newsletter-twenty-six.md)
 * [来源站点汇总](reference.md)
